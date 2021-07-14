@@ -2,5 +2,6 @@
 
 int main() {
 	pirntf("hello world!");
+	printf("bye world!");
 	return 0;
 }
